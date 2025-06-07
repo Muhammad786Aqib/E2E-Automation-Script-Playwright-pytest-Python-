@@ -1,4 +1,4 @@
-To create an end-to-end (E2E) automation script using Playwright with Pytest in Python, follow these steps:
+To creat an end-to-end (E2E) automation script using Playwright with Pytest in Python, follow these steps:
 
 Prerequisites:
 Python: Make sure Python is installed on your machine. If not, you can download and install it from here.
